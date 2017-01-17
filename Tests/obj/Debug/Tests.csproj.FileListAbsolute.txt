@@ -1,0 +1,12 @@
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\bin\Debug\Tests.exe.config
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\bin\Debug\Tests.exe
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\bin\Debug\Tests.pdb
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\obj\Debug\Tests.exe
+c:\users\domis77\documents\visual studio 2015\Projects\Tests\obj\Debug\Tests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache

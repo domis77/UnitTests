@@ -1,0 +1,8 @@
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\bin\Debug\ThreadsTests.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\bin\Debug\ThreadsTests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\bin\Debug\Threads.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\bin\Debug\Threads.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\obj\Debug\ThreadsTests.csprojResolveAssemblyReference.cache
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\obj\Debug\ThreadsTests.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\ThreadsTests\obj\Debug\ThreadsTests.pdb

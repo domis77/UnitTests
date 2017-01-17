@@ -1,0 +1,16 @@
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\bin\Debug\TestsTests.dll
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\bin\Debug\TestsTests.pdb
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\bin\Debug\Tests.exe
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\bin\Debug\Tests.pdb
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\obj\Debug\TestsTests.csprojResolveAssemblyReference.cache
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\obj\Debug\TestsTests.dll
+c:\users\domis77\documents\visual studio 2015\Projects\TestsTests\obj\Debug\TestsTests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\bin\Debug\TestsTests.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\bin\Debug\TestsTests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\bin\Debug\Tests.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\bin\Debug\Tests.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\obj\Debug\TestsTests.csprojResolveAssemblyReference.cache
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\obj\Debug\TestsTests.dll
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Tests\TestsTests\obj\Debug\TestsTests.pdb
